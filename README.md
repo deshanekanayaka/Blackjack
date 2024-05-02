@@ -1,1 +1,1 @@
-![alt text](images/game.png)
+![alt text](images/image.png)
